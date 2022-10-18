@@ -1,2 +1,2 @@
 *.log
-clave.txt
+*clave.txt*
