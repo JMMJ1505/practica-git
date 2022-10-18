@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-TWITTER_API_KEY="qwertyuiopasdfghjklzx12"5D7A24E12F4D17DA
-=======
-1234
->>>>>>> e05654d317c7fc947c1a0124c1a4cd6ba25f72c0
